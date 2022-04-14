@@ -1,0 +1,6 @@
+1. adb install /home/gorp/Downloads/xxx.apk
+adb server version (39) doesn't match this client (41); killing...
+* daemon started successfully
+Performing Streamed Install
+Success
+
