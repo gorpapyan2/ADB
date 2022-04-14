@@ -1,0 +1,6 @@
+1. adb shell screenrecord /sdcard/screenrecord.mp4 (Start Recording)
+Ctrl + C (Finish Recording)
+2. adb pull /sdcard/screenrecord.mp4 
+/sdcard/screenrecord.mp4: 1 file pulled. 22.3 MB/s (1762732 bytes in 0.075s)
+
+
